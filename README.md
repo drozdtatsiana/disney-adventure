@@ -4,7 +4,7 @@ Learning project: a landing page for a travel agency with group tours. The featu
 
 **Live demo:** https://drozdtatsiana.github.io/disney-adventure/
 
-![Disney Adventure preview](./images/screenshot.png)
+![Disney Adventure preview](screenshot.png)
 
 ## Features
 
